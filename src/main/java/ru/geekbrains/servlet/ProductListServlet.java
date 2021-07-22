@@ -26,7 +26,7 @@ public class ProductListServlet extends HttpServlet {
 
     private final JSONConverter converter = Factory.getJSONConverter();
 
-    // http://localhost:8080/jee_firstapp/product_list
+    // http://localhost:8080/jee_webapp/product_list
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         logger.info("Product list Get request");
