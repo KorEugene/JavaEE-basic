@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Java Enterprise Edition</h2>
+<h2>JavaEE</h2>
 </body>
 </html>
